@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  
+  <HelloWorld msg=" Hola este es el sitio Web de Alejandro Mendoza Foronda. Actualmente nos encontramos en construcción."/>
 </template>
 
 <script>
