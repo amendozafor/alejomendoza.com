@@ -1,6 +1,6 @@
 <template>
   
-  <HelloWorld msg="Hola este es el sitio web de Alejandro Mendoza Foronda. Actualmente nos encontramos en construcción."/>
+  <HelloWorld msg="Hola este es el sitio web de Alejandro Mendoza Foronda. Actualmente nos encontramos en construcción!."/>
 </template>
 
 <script>
